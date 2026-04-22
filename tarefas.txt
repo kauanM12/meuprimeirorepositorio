@@ -1,0 +1,3 @@
+- estudar github
+- fazer commits 
+- aprender sobre branches 
